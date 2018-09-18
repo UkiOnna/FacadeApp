@@ -1,0 +1,6 @@
+c:\my documents\visual studio 2017\Projects\FacadeApp\FacadeApp\bin\Debug\FacadeApp.exe.config
+c:\my documents\visual studio 2017\Projects\FacadeApp\FacadeApp\bin\Debug\FacadeApp.exe
+c:\my documents\visual studio 2017\Projects\FacadeApp\FacadeApp\bin\Debug\FacadeApp.pdb
+c:\my documents\visual studio 2017\Projects\FacadeApp\FacadeApp\obj\Debug\FacadeApp.csprojResolveAssemblyReference.cache
+c:\my documents\visual studio 2017\Projects\FacadeApp\FacadeApp\obj\Debug\FacadeApp.exe
+c:\my documents\visual studio 2017\Projects\FacadeApp\FacadeApp\obj\Debug\FacadeApp.pdb
